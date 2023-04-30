@@ -1,0 +1,254 @@
+*{
+    /* border: 1px solid red; */
+    font-family: 'Orbitron', sans-serif;
+}
+body{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 100%;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+.toolbar .meta{
+    margin-left: 22%;
+}
+.fondoss{
+    position: relative;
+}
+.fondos{
+    position: absolute;
+    height: 3220px;
+    width: 1349px;
+    z-index: 1;
+    left: -2px;
+}
+.barra2{
+    position: relative;
+    z-index: 1;
+}
+.barra .barra1{
+    position: relative;
+    z-index: 1;
+}
+.seccion1{
+    height: 600px;
+}
+.seccion1 .seccion1-1 .stadsmobil{
+    display: none !important;
+}
+.seccion1 .imgs2{
+    display: none !important;
+}
+.seccion1 .seccion1-1 .hijosec1 .parrasec{
+    color: white;
+    font-size: 46px;
+}
+.seccion1 .seccion1-1 .hijosec1 .parrasec span{
+    background: linear-gradient(97.16deg, #F86CF8 12.04%, #64CEF5 81.84%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+.seccion1 .seccion1-1 .hijosec1 .parrasec p{
+    font-size: 17px;
+}
+.seccion1 .seccion1-1 .boton1{
+    position: relative;
+    padding: 15px 15px 15px 15px;
+    border-radius: 5px;
+    background: linear-gradient(97.16deg, #F86CF8 12.04%, #64CEF5 81.84%);
+    color: white;
+    font-size: 12px;
+    z-index: 1;
+}
+.seccion1 .seccion1-1 .boton2{
+    position: relative;
+    padding: 15px 15px 15px 15px;
+    border-radius: 5px;
+    font-size: 12px;
+    border: 1px solid white;
+    z-index: 1;
+}
+.seccion1 .seccion1-1 .stads{
+    color: white;
+    margin-left: 100px;
+}
+.seccion2{
+    position: relative;
+    z-index: 1;
+}
+.seccion2 .imgsseccion2 img{
+    width: 80%;
+}
+.seccion2 .parrasec2{
+    color: white;
+    text-align: justify;
+}
+.seccion2 .parrasec2 p{
+    font-size: 14px;
+}
+.seccion2 .parrasec2 span{
+    background: linear-gradient(97.16deg, #F86CF8 12.04%, #64CEF5 81.84%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+.seccion2 .parrasec2-1 p{ 
+    font-size: 20px;
+}
+.seccion2 .botonseccion2 .boton1{
+    position: relative;
+    padding: 15px 15px 15px 15px;
+    border-radius: 5px;
+    background: linear-gradient(97.16deg, #F86CF8 12.04%, #64CEF5 81.84%);
+    color: white;
+    font-size: 12px;
+    font-weight: 500px;
+    z-index: 1;
+}
+.seccion3{
+    position: relative;
+    z-index: 1;
+}
+.seccion3 .parrasec3{
+    text-align: center;
+    color: white;
+}
+.seccion3 .parrasec3 span{
+    background: linear-gradient(97.16deg, #F86CF8 12.04%, #64CEF5 81.84%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+.seccion3 .parrasec3 .mobil{
+    display: none;
+    margin-top: -18px;
+}
+.seccion3 .parrasec3 .parrasec3-1{
+    text-align: center;
+    margin-left: 320px;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+.seccion3-1 .contenedor .cont1{
+    background-color: #090823;
+    border-radius: 0px 12px 0px 10px;
+    height: 380px;
+}
+.seccion3-1 .contenedor .cont1 img{
+    border-radius: 0px 12px 0px 0px;
+    width: 100%;
+}
+.imgcont1{
+    width: 95%;
+    margin-left: 8px;
+}
+.parrasec3-1-1{
+    color: white;
+}
+.parrasec3-1-1 p{
+    font-size: 10px;
+}
+.seccion3-1 .parrasec3-1-1 .boton3{
+    padding: 10px 10px 10px 10px;
+    border-radius: 5px;
+    background: linear-gradient(97.16deg, #F86CF8 12.04%, #64CEF5 81.84%);
+    color: white;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+.seccion3-1 .parrasec3-1-1 .boton4{
+    padding: 10px 10px 10px 10px;
+    border-radius: 5px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    border: 1px solid white;
+}
+.seccion4{
+    position: relative;
+    z-index: 1;
+}
+.seccion4-1{
+    position: relative;
+    z-index: 1;
+}
+.seccion4 .parrafosec4{
+    color: white;
+}
+.seccion4 .parrafosec4 span{
+    background: linear-gradient(97.16deg, #F86CF8 12.04%, #64CEF5 81.84%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+.seccion4 .parrafosec4 .parrafosec4-1{
+    font-size: 17px;
+}
+.seccion4 .seccion4-1 .contsec4-1{
+    border-radius: 15px 15px 15px 15px;
+}
+.seccion4-1 .contsec4-1 .parravideo .frasevideo{
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(5px);
+    border-radius: 0px 0px 25px 25px;
+    color: white;
+    width: 1178px;
+    height: 148px;
+    left: 14px;
+    top: 500px;
+    display: flex;
+    align-items: center;
+}
+.seccion4-1 .contsec4-1 .parravideo .imgvideo1{
+    width: 100px;
+    height: 100px;
+    left: 550px;
+    top: 232px;
+}
+.seccion4-1 .contsec4-1 .parravideo .video{
+    display: none;
+}
+.seccion5{
+    position: relative;
+    z-index: 1;
+    background-color:#090823;
+    height: 400px;
+    align-items: center;
+}
+.seccion5 .parrafosec5 .capsula1 h2{
+    background: linear-gradient(97.16deg, #F86CF8 12.04%, #64CEF5 81.84%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+.seccion5 .parrafosec5 .capsula1 p{
+    color: white;
+    text-align: justify;
+    /* font-size: 4px; */
+}
+.seccion5 .parrafosec5 .capsula2{
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    font-size: 14px;
+}
+.seccion5 .parrafosec5 .capsula3 img{
+    width: 80%;
+}
+.seccion5 .parrafosec5 .capsula3{
+    font-size: 14px;
+    color: white;
+    margin-top: -16px;
+}
